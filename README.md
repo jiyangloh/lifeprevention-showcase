@@ -6,6 +6,8 @@ ecoExplorer is an interactive educational website built to help Australian child
 
 Rather than presenting ecology as a static textbook topic, ecoExplorer turns it into an experience. The website combines storytelling, mini-games, quizzes, species exploration, and an AI chatbot to make environmental learning engaging for children while still being useful for parents and teachers.
 
+## Project Overview
+
 ## The Problem It Solves
 
 Australia faces ongoing ecological pressure from invasive species, yet biodiversity education for younger children is often limited or not presented in a way that keeps them engaged. ecoExplorer addresses this by:
@@ -179,3 +181,8 @@ This showcase summary is based on the two project documents you provided:
 - `Product Document.docx`
 
 It is intentionally written as a polished showcase overview of the full project and avoids including sensitive operational credentials from those documents.
+
+## Repository Note
+
+- This repository is intentionally portfolio-safe and does not include the full private project source.
+- Screenshots and visuals are included to demonstrate the product experience.
