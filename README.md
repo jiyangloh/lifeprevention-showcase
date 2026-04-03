@@ -169,20 +169,4 @@ The product documents position ecoExplorer as a platform with strong long-term e
 
 Because the project already combines cloud delivery, structured content, and AI-assisted educational features, it has a solid foundation for scaling beyond its initial release.
 
-## In One Sentence
 
-ecoExplorer is a child-focused environmental education platform that uses storytelling, games, structured species data, quizzes, and AI support to teach Australian children about native and invasive species in a fun, safe, and meaningful way.
-
-## Source Basis
-
-This showcase summary is based on the two project documents you provided:
-
-- `Support Document.docx`
-- `Product Document.docx`
-
-It is intentionally written as a polished showcase overview of the full project and avoids including sensitive operational credentials from those documents.
-
-## Repository Note
-
-- This repository is intentionally portfolio-safe and does not include the full private project source.
-- Screenshots and visuals are included to demonstrate the product experience.
